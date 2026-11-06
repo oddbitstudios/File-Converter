@@ -4,6 +4,8 @@ A free, simple Windows app that converts almost any video or audio file into ano
 
 Made by [Oddbit Studios](https://oddbitstudios.com).
 
+![Oddbit File Converter main window](screenshots/file-converter-main.png)
+
 ## Download
 
 Get the latest installer from the [Releases page](https://github.com/oddbitstudios/File-Converter/releases/latest) and run it. You don't need to install .NET or FFmpeg separately, because both are bundled with the app.
@@ -19,6 +21,8 @@ Convert any video to another video format, or pull the audio out of a video and 
 **Audio output formats:** MP3, M4A, AAC, FLAC, WAV, OGG, Opus, WMA
 
 Most common input files will work, including MKV, AVI, MOV, MP4, WebM, and common audio files.
+
+![Converting a batch of files](screenshots/file-converter-batch.png)
 
 ## How to use it
 
